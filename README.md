@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://portfolio-luis-bergonzini.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=2F7D74&center=true&vCenter=true&width=640&lines=Sistemas+web+para+uso+real;Pain%C3%A9is+de+dados+p%C3%BAblicos+em+Rond%C3%B4nia;Agentes+e+skills+com+Claude+Code+e+Codex;Do+prot%C3%B3tipo+%C3%A0+publica%C3%A7%C3%A3o%2C+com+revis%C3%A3o+humana" alt="Sistemas web, painéis de dados, agentes e skills" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=2F7D74&center=true&vCenter=true&width=640&lines=Sistemas+web+para+uso+real;Pain%C3%A9is+de+dados+para+quem+decide;Desenvolvimento+com+IA%2C+agentes+e+skills;Do+prot%C3%B3tipo+%C3%A0+publica%C3%A7%C3%A3o%2C+com+revis%C3%A3o+humana" alt="Sistemas web, painéis de dados, desenvolvimento com IA" />
   </a>
 </p>
 
