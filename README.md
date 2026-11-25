@@ -9,8 +9,14 @@
 </p>
 
 <p align="center">
-  Desenvolvedor e analista de dados em <b>Porto Velho (RO)</b>, tecnólogo em ADS (IFRO) e mestre em Desenvolvimento Regional e Meio Ambiente (UNIR).<br/>
-  Crio <b>sistemas web, painéis de dados, agentes e skills</b> com programação assistida por IA, revisando e testando todo o código gerado.
+  Crio <b>sistemas web, painéis de dados, agentes e skills</b> com programação assistida por IA,<br/>revisando e testando todo o código gerado.
+</p>
+
+<p align="center">
+  🎓 <b>Mestre em Desenvolvimento Regional e Meio Ambiente</b> · UNIR<br/>
+  💻 <b>Tecnólogo em Análise e Desenvolvimento de Sistemas</b> · IFRO<br/>
+  📘 <b>Pós-graduação em Análise e Desenvolvimento de Programas</b> · Descomplica<br/>
+  📍 Porto Velho, RO
 </p>
 
 <p align="center">
