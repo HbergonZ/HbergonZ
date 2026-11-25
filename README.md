@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2a44,100:2f7d74&height=170&section=header&text=Luis%20Henrique%20Bergonzini%20Souza&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Sistemas%20%C2%B7%20Dados%20%C2%B7%20IA%20aplicada&descSize=16&descAlignY=60" alt="Luis Henrique Bergonzini Souza" width="100%" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2a44,100:2f7d74&height=170&section=header&text=Luis%20Henrique%20Bergonzini%20Souza&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Sistemas%20%C2%B7%20Dados%20%C2%B7%20IA%20aplicada&descSize=16&descAlignY=60" alt="Luis Henrique Bergonzini Souza" title="Luis Henrique Bergonzini Souza" width="100%" /></picture>
 </p>
 
 <p align="center">
@@ -46,15 +46,27 @@
 <h2 align="center">Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,js,ts,react,postgres,mysql,docker,git,gitlab,wordpress,kotlin&perline=13" alt="PHP, Laravel, Python, JavaScript, TypeScript, React, PostgreSQL, MySQL, Docker, Git, GitLab, WordPress, Kotlin" />
+  <picture><img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" height="48" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel" height="48" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" height="48" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="48" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="48" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="48" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" height="48" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" height="48" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" height="48" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="48" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" title="GitLab" height="48" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" title="WordPress" height="48" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin" height="48" /></picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <picture><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" title="Claude Code" /></picture>
+  <picture><img src="https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white" alt="Codex" title="Codex" /></picture>
+  <picture><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" title="Power BI" /></picture>
+  <picture><img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" title="QGIS" /></picture>
+  <picture><img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" title="Ollama" /></picture>
 </p>
 
 <h2 align="center">Projetos em destaque</h2>
@@ -114,5 +126,5 @@
 </details>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f7d74,100:1f2a44&height=90&section=footer" alt="" width="100%" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f7d74,100:1f2a44&height=90&section=footer" alt="" width="100%" /></picture>
 </p>
