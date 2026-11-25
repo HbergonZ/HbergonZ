@@ -34,7 +34,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>🛠️ Atuação</h3>
-      <p>Governo de Rondônia (SETIC), consultoria para a OPAS/OMS e organizações socioambientais como Kanindé e Ecoporé.</p>
+      <p>Setor público, cooperação internacional e terceiro setor: sistemas de gestão, painéis de dados públicos e automações.</p>
     </td>
     <td width="33%" valign="top">
       <h3>🤝 Como trabalho</h3>
