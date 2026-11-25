@@ -38,7 +38,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>🤝 Como trabalho</h3>
-      <p>Começo pela necessidade de quem usa, entrego protótipo rápido, documento tudo e capacito a equipe para seguir sozinha.</p>
+      <p>Começo pela necessidade de quem usa, entrego protótipo rápido e documento tudo para que outra pessoa consiga dar continuidade.</p>
     </td>
   </tr>
 </table>
